@@ -28,8 +28,8 @@ The purpose of the project is to implement a particle filter able to localize a 
 
 Once the implementation is correct, running the project with the Term 2 simulator produces the following outputs:
 
-| Simulator output | Console output |
-| --- | --- |
+| Simulator output | 
+| --- | 
 | ![Your particle filter passed](https://github.com/Tzowbiie/CarND-Kidnapped-Vehicle-Project/blob/master/screenshots/screenshot_particle_start.JPG) |
 
 # Overview
