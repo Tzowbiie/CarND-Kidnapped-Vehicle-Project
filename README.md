@@ -32,7 +32,7 @@ Once the implementation is correct, running the project with the Term 2 simulato
 | --- | 
 | ![Your particle filter passed](https://github.com/Tzowbiie/CarND-Kidnapped-Vehicle-Project/blob/master/screenshots/screenshot_particle_start.JPG) |
 | --- | 
-| ![Your particle filter passed](https://github.com/Tzowbiie/CarND-Kidnapped-Vehicle-Project/blob/master/screenshots/particle_filter_fast.gif)|
+| ![Your particle filter passed](https://github.com/Tzowbiie/CarND-Kidnapped-Vehicle-Project/blob/master/screenshots/particle_filter_fast.gif) |
 
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
